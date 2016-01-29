@@ -1,3 +1,3 @@
 # Open-Source-Cris
 
-##Sample README for now
+##CSCI 2963 Open Source Class
