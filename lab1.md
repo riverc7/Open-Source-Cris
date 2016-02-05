@@ -12,6 +12,6 @@
 ![Beginner](images/Beginner.png)
 
 ##Blooky:
-![Blooky](images/Blooky.png)
+![Blockly](images/Blockly.png)
 
-##Currently looking into Automatic Differentiation with my work study. Im wrote up code for different mathematical situations for them. 
+Currently looking into Automatic Differentiation with my work study. Im wrote up code for different mathematical situations for them. 
