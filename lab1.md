@@ -6,3 +6,5 @@
 
 ##Linux Tree usage:
 ![Tree](images/tree.png)
+
+##Regex Problems:
