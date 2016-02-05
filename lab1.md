@@ -8,3 +8,10 @@
 ![Tree](images/tree.png)
 
 ##Regex Problems:
+![7 Problems](images/7\ problems.png)
+![Beginner](images/Beginner.png)
+
+##Blooky:
+![Blooky](images/Blooky.png)
+
+##Currently looking into Automatic Differentiation with my work study. Im wrote up code for different mathematical situations for them. 
