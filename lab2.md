@@ -10,7 +10,7 @@
 
 6)I think that if I were to begin working on a project, I would want to use the MIT Licese, so that if the need were to arise, I could have others come on more easily and make changes, preferablly for the betterment of the project itself. It would honestly depend on how private or protected the project would have to be. 
 
-7) Common Good - Apache - Allows the program/code to be open source, and usable by anyone without much fear of legal action. 
-   Company - GPL - Has tight restrictions and forces source code to be under the same license, good for keeping a companies       work all under the same license while getting the best protection. 
-   Developer - LGPL - Is almost as tight as GPL, but essentially allows the developer to simply link outside sources instead of    having to get them under the same license. 
+7) Common Good - Apache - Allows the program/code to be open source, and usable by anyone without much fear of legal action.
+Company - GPL - Has tight restrictions and forces source code to be under the same license, good for keeping a companies       work all under the same license while getting the best protection.
+Developer - LGPL - Is almost as tight as GPL, but essentially allows the developer to simply link outside sources instead of    having to get them under the same license. 
    
