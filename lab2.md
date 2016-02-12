@@ -13,4 +13,15 @@
 7) Common Good - Apache - Allows the program/code to be open source, and usable by anyone without much fear of legal action.
 Company - GPL - Has tight restrictions and forces source code to be under the same license, good for keeping a company's work all under the same license while getting the best protection.
 Developer - LGPL - Is almost as tight as GPL, but essentially allows the developer to simply link outside sources instead of having to get them under the same license. 
+
+9)
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/AutoRoute | Yes | MIT License https://github.com/AutoRoute/node/blob/master/LICENSE
+https://github.com/Robmaister/SharpNav| Yes | MIT License https://github.com/Robmaister/SharpNav/blob/master/LICENSE
+https://github.com/astonshane/davisputnamGo | Yes | MIT License https://github.com/astonshane/davisputnamGo/blob/master/LICENSE
+http://cloudbench-ide.github.io/cloudbench/ | Yes | Apache 2.0 License https://github.com/CloudBench-IDE/cloudbench/blob/master/LICENSE
+
    
