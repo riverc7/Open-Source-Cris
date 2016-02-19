@@ -4,4 +4,4 @@ I found a grammatical error on Chapter 6 Section 2 in the FreeBSD handbook. It w
 
 Commit request submission: https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=207352
 
-Submitted file: myfix [myfix.diff]
+Submitted file: ![myfix] (myfix.diff)
