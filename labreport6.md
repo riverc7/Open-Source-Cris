@@ -44,3 +44,4 @@
     Current Branches: master, kmcnellis-patch-2, fixes, gh-pages, agundy-patch-1, kmcnellis-patch-1, src-gh-pages
 
 ###2. Gitstats
+1. sudo make install
