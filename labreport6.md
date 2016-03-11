@@ -45,3 +45,12 @@
 
 ###2. Gitstats
 1. sudo make install
+2. aster-math: /home/ubuntu/csci296301/lab6/aster-math/gitstats/index.html
+
+    emacspeak
+    
+    go-learn
+    
+    Observatory
+    
+    rcos/CSCI2963-01
