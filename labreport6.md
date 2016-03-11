@@ -42,3 +42,5 @@
     First Commit: Jan 20, 2016
     Latest Commit: Mar 11, 2016
     Current Branches: master, kmcnellis-patch-2, fixes, gh-pages, agundy-patch-1, kmcnellis-patch-1, src-gh-pages
+
+###2. Gitstats
