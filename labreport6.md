@@ -1,7 +1,8 @@
 #Lab 6
 
 ##Part 1
-1. aster-math, emacspeak, go-learn, Observatory
+###1. Project Selection
+1. aster-math, emacspeak, go-learn, Observatory, rcos/CSCI2963-01
 2. aster-math
 
     Number of Contributors: 1
