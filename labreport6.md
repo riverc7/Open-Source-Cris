@@ -2,8 +2,7 @@
 
 ##Part 1
 1. aster-math, emacspeak, go-learn, Observatory
-
-2.aster-math
+2. aster-math
 
     Number of Contributors: 1
     Number of Lines of Code: 60804
